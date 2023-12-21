@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-hrbpy",
+    "appUrl": "https://realm.mongodb.com/groups/5f465fb6dc0eea18b19f0784/apps/658329d171a9ca9f71e830db",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://eu-central-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://eu-central-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/5f465fb6dc0eea18b19f0784/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
